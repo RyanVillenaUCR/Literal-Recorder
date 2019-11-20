@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LiteralRecorder0", "LiteralRecorder0\LiteralRecorder0.cproj", "{161BD3FD-20D6-4115-8D23-5F9884B6386D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{161BD3FD-20D6-4115-8D23-5F9884B6386D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{161BD3FD-20D6-4115-8D23-5F9884B6386D}.Debug|AVR.Build.0 = Debug|AVR
+		{161BD3FD-20D6-4115-8D23-5F9884B6386D}.Release|AVR.ActiveCfg = Release|AVR
+		{161BD3FD-20D6-4115-8D23-5F9884B6386D}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
